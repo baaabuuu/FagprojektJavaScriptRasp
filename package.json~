@@ -1,0 +1,17 @@
+{
+   "name": "ble-server",
+   "version": "1.0.0",
+   "description": "",
+   "main": "attendance.js",
+   "scripts": {
+      "test": "ava \"**/*.test.js\""
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "bleno": "^0.4.0"
+   },
+   "devDependencies": {
+      "ava": "^0.25.0"
+   }
+}
